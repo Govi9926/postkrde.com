@@ -1,0 +1,13 @@
+Cookie Life Cycle :-
+		
+		    request
+	       -----------------> 
+      Client side                Server Side
+	       <-----------------
+               response + cookie  
+
+	       ----------------->
+               request + cookie  
+
+	       	
+     
